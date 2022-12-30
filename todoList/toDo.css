@@ -1,0 +1,50 @@
+ body{
+     margin: 0;
+     padding: 0;
+}
+ .header h1{
+     background: #EB455F;
+     color: whitesmoke;
+     padding: 20px;
+     font-weight: bold;
+     font-size: 30px;
+     text-align: center;
+     margin-top: 0px;
+     width: 100%;
+     text-decoration: underline;
+     letter-spacing: 5px;
+     word-spacing: 4px;
+     position: absolute;
+}
+ .header input[type=text]{
+     width: 100%;
+     border: none;
+     background: #2B3467;
+     font-size: 25px;
+     margin-top: 73px;
+     padding: 16px;
+     color: whitesmoke;
+}
+ .header ul li{
+     list-style: none;
+     width: 82%;
+     padding: 10px;
+     cursor: pointer;
+     background: grey;
+     color: white;
+     font-weight: bold;
+     font-size: 23px;
+     letter-spacing: 3px;
+     display: inline-block;
+     user-select: none;
+}
+ .header ul i{
+     font-size: 30px;
+     color: black;
+     margin-left: 105%;
+}
+ .done{
+     text-decoration: line-through;
+     color: black;
+     background-color: #FFF8EA;
+}

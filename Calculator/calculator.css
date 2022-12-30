@@ -1,0 +1,75 @@
+body{
+	background-color: #7393B3;
+}
+
+
+.container{
+ background-color: #6F8FAF;
+ width: 90%;
+ margin-left: 70px;
+}
+
+.app{
+	padding-top: 20px;
+	margin-left: 6%;
+	color: whitesmoke;
+}
+
+input[type = button]{
+	background: whitesmoke;
+	color: black;
+	font-size: 20px;
+	padding: 20px;
+	margin-top: 12px;
+	margin-left: 5px;
+    width: 100px;
+    font-weight: bold;
+}
+
+.screen {
+	width: 420px;
+	height: 62px;
+	margin-left: 402px;
+	margin-top: 12px;
+}
+
+.screen:hover{
+	background: darkcyan;
+}
+
+.container .clear:hover{
+	background: red;
+}
+
+.keys{
+	width: 450px;
+	margin-top: 15px;
+	margin-left: 400px;
+
+}
+
+.container .clear{
+	background: mediumvioletred;
+	cursor: pointer;
+}
+
+.keys .operator{
+	 background-color: #eebb24;
+}
+
+.keys .equal-sign {
+	background: powderblue;
+}
+
+.button:hover {
+	background: #eaeaea;
+}
+
+.equal-sign:hover {
+
+    background-color: #4e9ed4;
+}
+
+.operator:hover{
+	background: darkorange;
+}
