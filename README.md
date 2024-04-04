@@ -1,6 +1,6 @@
                                                                          **_Projects List_** 📋 
 <br> <br>
- **_Calculator_ **_  🧮 <br> <br>
+ **_Calculator_**  🧮 <br> <br>
 This simple calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. <br>
 
 Features ✨  <br>
@@ -14,7 +14,7 @@ Usage 🚀 <br>
 * Click on the operation buttons (+, -, *, /) to perform calculations.
 * Use the clear button (C) to reset the calculator. <br>
 
- **_Landing Page **_ 🌐 <br> <br>
+ **_Landing Page_**  🌐 <br> 
 * This landing page serves as the initial point of contact for visitors to your website or application. It provides a brief overview of your offerings and * * * encourages users to take action. <br>
 
 Features ✨ <br>
@@ -27,7 +27,7 @@ Usage 🚀 <br>
 * Explore the content and offerings presented on the page.
 * Click on call-to-action buttons to navigate to relevant sections or take desired actions. <br>
 
- **_Temperature Converter **_ 🌡️ <br> <br>
+ **_Temperature Converter_**  🌡️ <br> <br>
 This tool allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin units.
 
 Features ✨ <br>
@@ -41,7 +41,7 @@ Usage 🚀 <br>
 * Select the input and output temperature units from the dropdown menus.
 * Click the "Convert" button to view the converted temperature. <br>
 
- **_Tribute Page **_ 🏛️ <br> <br>
+ **_Tribute Page_**  🏛️ <br> <br>
 This page is dedicated to paying tribute to a person, group, or organization that has made a significant impact or contribution.
  
 Features ✨ <br>
@@ -54,7 +54,7 @@ Usage 🚀 <br>
 * Read through the content to learn about the person or group being honored.
 * Click on links or interactive elements for additional information or exploration. <br>
 
- **_Todo List **_ ✅ <br> <br>
+ **_Todo List_**  ✅ <br> <br>
 This application helps users manage their tasks and stay organized by providing a simple and intuitive interface for creating, editing, and deleting tasks.
 
 Features ✨ <br>
